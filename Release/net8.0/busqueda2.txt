@@ -1,0 +1,6 @@
+{
+  "nombre_reporte": "gol trend",
+  "busqueda": "gol trend pack 3",
+  "anio_inicio": 2012,
+  "anio_fin": 2018
+}

@@ -1,0 +1,4 @@
+{
+  "comparador": true,
+  "fecha_a_comparar": "anterior"
+}
