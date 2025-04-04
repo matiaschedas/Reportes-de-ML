@@ -1,0 +1,3 @@
+proyecto deprecado ya que mercadolibre dio de baja la api para hacer consultas libres
+ahora solo se puede consultar items de un usuario en particular.
+El proyecto continua en -> Reportes de ML scrapeado
